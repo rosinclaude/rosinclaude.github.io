@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "Teaching/teaching.html",
+    "href": "Teaching/teaching.html",
+    "title": "Rosin Claude Ngueveu",
+    "section": "",
+    "text": "INF8750 : Information System Security\n\n\n\nINF4471 : Introduction to Information Security\nINF2120 : Programming II\n\n\n\nINF3105 : Data Structures and Algorithms\nINF1070 : Utilisation and administration of informatics systems"
+  },
+  {
+    "objectID": "Teaching/teaching.html#teaching",
+    "href": "Teaching/teaching.html#teaching",
+    "title": "Rosin Claude Ngueveu",
+    "section": "",
+    "text": "INF8750 : Information System Security\n\n\n\nINF4471 : Introduction to Information Security\nINF2120 : Programming II\n\n\n\nINF3105 : Data Structures and Algorithms\nINF1070 : Utilisation and administration of informatics systems"
+  },
+  {
+    "objectID": "ResearchBlog/posts/FairnessSurvey/index.html",
+    "href": "ResearchBlog/posts/FairnessSurvey/index.html",
+    "title": "A general survey on fairness in machine learning : a focus on tabular datasets",
+    "section": "",
+    "text": "Fairness in machine learning is a very large research field where there are many definitions, metrics, orientations, methods and point of views.\nIn fact, since fairness is strongly related to social and societal issues, each impacted individual or society can have its own notion of what means fairness, and how it should be enforced.\nIn this blog post, we will provide a summary of our article “A general survey on fairness in machine learning : a focus on tabular datasets”."
+  },
+  {
+    "objectID": "ResearchBlog/posts/FairnessSurvey/index.html#bias-origins",
+    "href": "ResearchBlog/posts/FairnessSurvey/index.html#bias-origins",
+    "title": "A general survey on fairness in machine learning : a focus on tabular datasets",
+    "section": "Bias, origins",
+    "text": "Bias, origins"
+  },
+  {
+    "objectID": "ResearchBlog/posts/FairnessSurvey/index.html#fairness-definitions",
+    "href": "ResearchBlog/posts/FairnessSurvey/index.html#fairness-definitions",
+    "title": "A general survey on fairness in machine learning : a focus on tabular datasets",
+    "section": "Fairness definitions",
+    "text": "Fairness definitions"
+  },
+  {
+    "objectID": "ResearchBlog/posts/FairnessSurvey/index.html#fairness-mechanisms",
+    "href": "ResearchBlog/posts/FairnessSurvey/index.html#fairness-mechanisms",
+    "title": "A general survey on fairness in machine learning : a focus on tabular datasets",
+    "section": "Fairness mechanisms",
+    "text": "Fairness mechanisms"
+  },
+  {
+    "objectID": "ResearchBlog/posts/FairnessSurvey/index.html#other-fairness-aspects",
+    "href": "ResearchBlog/posts/FairnessSurvey/index.html#other-fairness-aspects",
+    "title": "A general survey on fairness in machine learning : a focus on tabular datasets",
+    "section": "Other fairness aspects",
+    "text": "Other fairness aspects\n\nDistribution\n\n\nIn Long term…"
+  },
+  {
+    "objectID": "ResearchBlog/posts/FairnessSurvey/index.html#other-fairness-surveys",
+    "href": "ResearchBlog/posts/FairnessSurvey/index.html#other-fairness-surveys",
+    "title": "A general survey on fairness in machine learning : a focus on tabular datasets",
+    "section": "Other Fairness surveys",
+    "text": "Other Fairness surveys"
+  },
+  {
+    "objectID": "ResearchBlog/index.html",
+    "href": "ResearchBlog/index.html",
+    "title": "Research blog & Interest",
+    "section": "",
+    "text": "Welcome to my blog focused on research and other interest. Concerning my research interest, you will find some discussions about my publications, some interesting papers and other notes or hacking challenges that I find interesting.\nAbout my interest, they will mainly revolve around finance, photography & videography.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nFairMapping\n\n\n\n\n\n\n\nGAN\n\n\nFairness\n\n\nCounterfactuals\n\n\n\n\n\n\n\n\n\n\n\nJan 29, 2023\n\n\nRosin Ngueveu\n\n\n\n\n\n\n  \n\n\n\n\nA general survey on fairness in machine learning : a focus on tabular datasets\n\n\n\n\n\n\n\nSurvey\n\n\nFairness\n\n\n\n\n\n\n\n\n\n\n\nJan 29, 2023\n\n\nRosin Ngueveu\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rosin Claude Ngueveu",
+    "section": "",
+    "text": "Hello, thank you for dropping by.\nI am a PhD student at UQAM working on the topic of Fairness, Accountability and Transparency in machine learning. I have been working on methods focusing on the preprocessing of the dataset in order to remove unwanted correlations that have a negative impact in the decision making process. Before my PhD, I have been working and completing my Engineering studies in computer security and embedded systems."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Rosin Claude Ngueveu",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy current interests lye in Ethics of AI (Fairness, Explicability, Accountabilty) Privacy and Robustness in Machine Learning, and Computer Security. There are many intersections between these topics, creating exciting research topics and publications."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Rosin Claude Ngueveu",
+    "section": "",
+    "text": "Ethics of AI\n\nFairness\nExplicability\nAccountabilty\n\nPrivacy\nRobustness\nComputer Security"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Rosin Claude Ngueveu",
+    "section": "",
+    "text": "Ethics of AI\n\nFairness\nExplicability\nAccountabilty\n\nPrivacy\nRobustness\nComputer Security"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Rosin Claude Ngueveu",
+    "section": "Education",
+    "text": "Education\nUniversité du Québec à Montréal | Montréal, Qc | Canada\nPh.D. in Computer Science | Jan 2017 - April 2023 (Expected)\nAdvisors: Sébastien Gambs, Alain Tapp\nTitle: Fairness in Machine Learning through data preprocessing based on adversarial methods\nGeorgia Institute of Technology | Atlanta, GA | USA\nMsc. in Electrical and Computer Engineering | Sept 2014 - May 2016\nUniversité de Technologie de Troyes | Troyes | France Engineering degree in Network, System and Telecommunication: Mobile Technologies and Embedded Systems | Sept 2010 - May 2016"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Rosin Claude Ngueveu",
+    "section": "Experience",
+    "text": "Experience\nCentre de Recherche Informatique de Montréal - (CRIM) | Data Privacy, Integrity and Ethics Analyst | Sep 2021 - Aug 2022\n\nContractor on data confidentiality\nIntegrity and ethics\nEvaluation of service offers on the privacy and ethics dimensions\nFormulation of recommendation for improved data management.\n\nLaboratoire d’Analyse et d’Architecture des Systèmes - (LAAS-CNRS) | Internet of Things vulnerability analyst | May 2015 - Oct 2015\n\nAnalysis, clarification of the Internet of Things and its relative concepts\nDefinition/Formalisation of criteria and classification methods\nDeduction of attacks surfaces and potential vulnerabilities\nSetup a django webserver to showcase analysis."
+  },
+  {
+    "objectID": "ResearchBlog/posts/FairMapping/index.html",
+    "href": "ResearchBlog/posts/FairMapping/index.html",
+    "title": "FairMapping",
+    "section": "",
+    "text": "Fairness can be achieved through several differents approaches. In particular, preprocessing approaches have the advantanges that …\nIn this blog, we will resume the approach FairMapping."
+  },
+  {
+    "objectID": "ResearchBlog/posts/FairMapping/index.html#objective",
+    "href": "ResearchBlog/posts/FairMapping/index.html#objective",
+    "title": "FairMapping",
+    "section": "Objective",
+    "text": "Objective"
+  },
+  {
+    "objectID": "ResearchBlog/posts/FairMapping/index.html#descriptions",
+    "href": "ResearchBlog/posts/FairMapping/index.html#descriptions",
+    "title": "FairMapping",
+    "section": "Descriptions",
+    "text": "Descriptions"
+  },
+  {
+    "objectID": "ResearchBlog/posts/FairMapping/index.html#results",
+    "href": "ResearchBlog/posts/FairMapping/index.html#results",
+    "title": "FairMapping",
+    "section": "Results",
+    "text": "Results"
+  },
+  {
+    "objectID": "Publications/publications.html",
+    "href": "Publications/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Published\n2021\nUlrich Aïvodji, François Bidet, Sébatien Gambs, Rosin C. Ngueveu, and Alain Tapp. (2021) \"Local Data Debiasing for Fairness Based on Generative Adversarial Training.\" Algorithms\n        \n        Preprint\n     \n        \n        Published\n    \nAntoine Boutet, Carole Frindel, Sébatien Gambs, Théo Jourdan, and Rosin C. Ngueveu. (2021) \"DYSAN: Dynamically sanitizing motion sensor data against sensitive inferences through adversarial networks.\" ASIACCS\n        \n        Preprint\n     \n        \n        Github\n     \n        \n        Published\n    \nWorking Papers / Non-archival\n2022\nSébatien Gambs and Rosin C. Ngueveu. (2022) \"Fair mapping.\"\n        \n        Preprint"
+  }
+]
