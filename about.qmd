@@ -1,0 +1,39 @@
+---
+# title: "Rosin Claude Ngueveu"
+---
+
+## Research Interests
+- Ethics of AI 
+	- Fairness
+	- Explicability
+	- Accountabilty
+- Privacy
+- Robustness 
+- Computer Security 
+
+## Education
+**Université du Québec à Montréal** | Montréal, Qc | Canada  
+*Ph.D.* in *Computer Science* | Jan 2017 - April 2023 (Expected)  
+*Advisors*: Sébastien Gambs, Alain Tapp  
+Title: Fairness in Machine Learning through data preprocessing based on adversarial methods
+
+**Georgia Institute of Technology** | Atlanta, GA | USA  
+*Msc.* in *Electrical and Computer Engineering* | Sept 2014 - May 2016
+
+**Université de Technologie de Troyes** | Troyes | France
+*Engineering degree* in *Network, System and Telecommunication: Mobile Technologies and Embedded Systems* | Sept 2010 - May 2016
+
+## Experience
+**Centre de Recherche Informatique de Montréal - (CRIM)** | *Data Privacy, Integrity and Ethics Analyst* | Sep 2021 - Aug 2022  
+
+- Contractor on data confidentiality 
+- Integrity and ethics
+- Evaluation of service offers on the privacy and ethics dimensions
+- Formulation of recommendation for improved data management.
+
+**Laboratoire d'Analyse et d'Architecture des Systèmes - (LAAS-CNRS)** | *Internet of Things vulnerability analyst* | May 2015 - Oct 2015  
+
+- Analysis, clarification of the Internet of Things and its relative concepts
+- Definition/Formalisation of criteria and classification methods
+- Deduction of attacks surfaces and potential vulnerabilities
+- Setup a django webserver to showcase analysis.
