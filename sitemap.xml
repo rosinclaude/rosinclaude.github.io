@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rosinclaude.github.io/Teaching/teaching.html</loc>
-    <lastmod>2023-08-16T20:11:33.410Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rosinclaude.github.io/ResearchBlog/posts/FairnessSurvey/index.html</loc>
-    <lastmod>2023-08-16T20:11:32.580Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rosinclaude.github.io/ResearchBlog/index.html</loc>
-    <lastmod>2023-08-16T20:11:32.095Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rosinclaude.github.io/index.html</loc>
-    <lastmod>2023-08-16T20:11:31.453Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rosinclaude.github.io/about.html</loc>
-    <lastmod>2023-08-16T20:11:31.718Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rosinclaude.github.io/ResearchBlog/posts/FairMapping/index.html</loc>
-    <lastmod>2023-08-16T20:11:32.324Z</lastmod>
+    <loc>https://rosinclaude.github.io/Teaching/teaching copy.html</loc>
+    <lastmod>2023-08-18T13:53:13.579Z</lastmod>
   </url>
   <url>
     <loc>https://rosinclaude.github.io/Publications/publications.html</loc>
-    <lastmod>2023-08-16T20:11:33.176Z</lastmod>
+    <lastmod>2023-08-18T13:53:13.020Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rosinclaude.github.io/ResearchBlog/posts/FairMapping/index.html</loc>
+    <lastmod>2023-08-18T13:53:12.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rosinclaude.github.io/about.html</loc>
+    <lastmod>2023-08-18T13:53:11.448Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rosinclaude.github.io/index.html</loc>
+    <lastmod>2023-08-18T13:53:11.166Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rosinclaude.github.io/ResearchBlog/index.html</loc>
+    <lastmod>2023-08-18T13:53:11.883Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rosinclaude.github.io/ResearchBlog/posts/FairnessSurvey/index.html</loc>
+    <lastmod>2023-08-18T13:53:12.392Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rosinclaude.github.io/Teaching/teaching.html</loc>
+    <lastmod>2023-08-18T13:53:13.285Z</lastmod>
   </url>
 </urlset>
